@@ -6,3 +6,10 @@ Welkom bij mijn eerste project, een eenvoudige quiz die je kennis test over vers
 - Score wordt bijhouden
 - Eenvoudige en interactieve gebruikerservaring
 - Mogelijkheid om opnieuw te starten na afloop van de quiz
+
+## Installatie
+Volg deze stappen om de quiz lokaal te draaien:
+
+1. Clone deze repository:
+   ```bash
+   https://github.com/PeterMarzina/Quiz.git
